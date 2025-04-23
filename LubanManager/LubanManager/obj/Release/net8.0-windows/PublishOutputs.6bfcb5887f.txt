@@ -1,0 +1,5 @@
+E:\LubanConfigManager\LubanManager\LubanManager\bin\Release\net8.0-windows\publish\LubanManager.exe
+E:\LubanConfigManager\LubanManager\LubanManager\bin\Release\net8.0-windows\publish\LubanManager.dll
+E:\LubanConfigManager\LubanManager\LubanManager\bin\Release\net8.0-windows\publish\LubanManager.deps.json
+E:\LubanConfigManager\LubanManager\LubanManager\bin\Release\net8.0-windows\publish\LubanManager.runtimeconfig.json
+E:\LubanConfigManager\LubanManager\LubanManager\bin\Release\net8.0-windows\publish\LubanManager.pdb
